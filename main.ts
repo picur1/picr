@@ -11,5 +11,3 @@ basic.showIcon(IconNames.Asleep)
 basic.pause(500)
 basic.showString("f")
 basic.pause(500)
-lamp = 0
-basic.clearScreen()
